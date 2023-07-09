@@ -1,0 +1,1500 @@
+
+Q. Which of the following is/are characteristics of Computer? 
+(A) Diligence 
+(B) Versatility 
+(C) Reliability 
+(D) All of the Above
+
+Q. In EDSAC, an addition operation was completed in _____ micro seconds. 
+(A) 4000 
+(B) 3000 
+(C) 2000 
+(D) 1500 
+
+Q. A hybrid computer is the one having combined properties of ________ 
+(A) Micro & Mini computers 
+(B) Mini & Super Computers 
+(C) Mainframe & Super Computers 
+(D) Analog & Digital computers 
+
+Q. Which of the following uses a handheld Operating Systems? 
+(A) Super Computer 
+(B) Laptop 
+(C) Mainframe 
+(D) PDA  
+
+Q. The word length of Micro computers lies in the range between ________ 
+(A) 8 and 16 bits 
+(B) 8 and 21 bits 
+(C) 8 and 24 bits 
+(D) 8 and 32 bits  
+
+Q. Desktop and Personal computers are also known as_______ 
+(A) Super Computer 
+(B) Quantum Computer 
+(C) Mainframe Computer 
+(D) Micro Computer
+
+Q. Which language is used for Artificial Intelligence (AI)? 
+(A) FORTRAN 
+(B) COBOL 
+(C) C 
+(D) PROLOG  
+
+Q. Who coined the term “Artificial Intelligence”? 
+(A) Charles Babbage 
+(B) Alan Tuning 
+(C) Von Neumann 
+(D) John McCarthy  
+
+Q. Which of the following is/are application(s) of Neural Network? 
+(A) Pattern recognition 
+(B) Mobile Computing 
+(C) Speech reading(Lip-reading) 
+(D) All of the Above 
+
+Q. Radial Basis Function (RBF) networks have _____ layers. 
+(A) One 
+(B) Four 
+(C) Two 
+(D) Three  
+
+Q. Fourth Generation computers were based on _______ 
+(A) IC 
+(B) Vacuum tube 
+(C) transistor 
+(D) Microprocessors  
+
+Q. The first computer language developed was______ 
+(A) COBOL 
+(B) PASCAL 
+(C) BASIC 
+(D) FORTRAN 
+
+Q. Herman Hollerith developed a machine called________ 
+(A) Pascaline 
+(B) Analytical engine 
+(C) Census Tabulator 
+(D) Tabulating Machine 
+
+Q. ISP stands for______ 
+(A) Instruction Standard Processing 
+(B) Instruction Standard Processor 
+(C) Information Set Processing 
+(D) Instruction Set Processor  
+
+Q. Which is not an integral part of computer? 
+(A) CPU 
+(B) Monitor 
+(C) Mouse 
+(D) UPS  
+
+Q. The most frequently used instructions of a computer program are likely to be fetched from ______ 
+(A) Hard disk 
+(B) ROM 
+(C) RAM 
+(D) Cache  
+
+Q. The primary aim of computer process is to convert the data into ______ 
+(A) table 
+(B) graph 
+(C) file 
+(D) information  
+
+Q. A bus that connects a computer to Peripheral devices is called _______ 
+(A) System Bus 
+(B) Memory Bus 
+(C) Front-Side Bus 
+(D) External Bus  
+
+Q. External Bus is also referred as _________ 
+(A) System Bus 
+(B) Memory Bus 
+(C) Front-Side Bus 
+(D) Expansion Bus  
+
+Q. RISC stands for________ 
+(A) Reverse Instruction Set Computer 
+(B) Reverse Information Set Computer 
+(C) Reduced Information Set Computer 
+(D) Reduced Instruction Set Computer 
+
+Q. Von Neumann Architecture is a _______ 
+(A) Multiple Instruction Multiple Data(MIMD) 
+(B) Single Instruction Multiple Data(SIMD) 
+(C) Multiple Instruction Single Data(MISD) 
+(D) Single Instruction Single Data(SISD)  
+
+Q. CISC stands for _________ 
+(A) Compound Instruction Set Computer 
+(B) Complex Information Set Computer 
+(C) Compound Information Set Computer 
+(D) Complex Instruction Set Computer  
+
+Q. The computer performs all mathematical and logical operations inside its _______ 
+(A) Visual Display Unit 
+(B) Memory Unit 
+(C) Output Unit 
+(D) Central Processing Unit  
+
+Q. Which of the following is used as an intermediate to extend the processor BUS? 
+(A) Gateway 
+(B) Router 
+(C) Connector 
+(D) Bridge  
+
+Q. Interrupts that are initiated by an instruction are_______ 
+(A) internal 
+(B) external 
+(C) hardware 
+(D) software  
+
+Q. GIGO stands for______ 
+(A) Garbage In Garbage Out 
+(B) Gateway In Gateway Out 
+(C) Gopher In Gopher Out 
+(D) Geographic In Geographic Out  
+
+Q. A computer does not suffer from tiredness and lack of concentration. It is known as _______ 
+(A) Diligence 
+(B) Versatility 
+(C) GIGO 
+(D) None of the Above  
+
+Q. FLOPS stands for______ 
+(A) Floating Point Operation Per Second 
+(B) File Processing Operation Per Second 
+(C) Floating Processing Operation Per Second 
+(D) File Loading Operation Per Second
+
+Q. EDSAC stands for________ 
+(A) Electronic Delay Storage Automatic Computer 
+(B) Electronic Discrete Storage Automatic Computer 
+(C) Electronic Delay Serial Automatic Computer 
+(D) Electronic Discrete Storage Automatic Computer
+
+Q. Third Generation computers were based on _______ 
+(A) IC 
+(B) Vacuum tube 
+(C) transistor 
+(D) None of the Above  
+
+Q. ULSI stands for______ 
+(A) Ultra Large Scale Integration 
+(B) Ultimate Large Scale Integration 
+(C) Upper Large Scale Integration 
+(D) Ultra Large Script Integration  
+
+Q. Which of the following is fourth generation computer? 
+(A) INTEL 4004 
+(B) IBM 360 
+(C) IBM 1401 
+(D) None of the Above 
+
+Q. The fastest and most expensive computers are______ 
+(A) Super Computers 
+(B) Quantum Computers 
+(C) Mainframe Computers 
+(D) Micro Computers  
+
+Q. A _____ terminal does not process or store dat(A) 
+(A) dumb 
+(B) intelligent 
+(C) Both(A) & (B) 
+(D) None of the Above  
+
+Q. _________ is a computational model based on the structure of biological neural networks? 
+(A) Artificial Neural Network (ANN) 
+(B) Biological Network 
+(C) Both(A) & (B) 
+(D) None of the Above 
+
+Q. A neural network in which the signal passes in only one direction is called _____ 
+(A) Feed forward Neural Network 
+(B) Recurrent Neural Network 
+(C) Both(A) & (B) 
+(D) None of the Above 
+
+Q. _________ is an artificial neural network with multiple hidden layers between the input and output layers? 
+(A) Deep neural network 
+(B) Shallow neural network 
+(C) Both(A) & (B) 
+(D) None of the Above 
+
+Q. Which algorithm is used in layered Feed forward Neural Network? 
+(A) Back propagation algorithm 
+(B) Binary Search 
+(C) Both(A) & (B) 
+(D) None of the Above 
+
+Q. The chip used in computers, is made of ______ 
+(A) Silicon 
+(B) Iron Oxide 
+(C) Chromium 
+(D) None of the Above 
+
+Q. Which Flip Flop is used to store data in registers? 
+(A) D Flip Flop 
+(B) JK Flip Flop 
+(C) RS Flip Flop 
+(D) None of the Above  
+
+Q. ALU and Control Unit have special purpose locations called _______ 
+(A) Registers 
+(B) Mother Board 
+(C) Sockets 
+(D) None of the Above
+
+Q. A computer bus that is used to specify a Physical address? 
+(A) Address Bus 
+(B) Data Bus 
+(C) Control Bus 
+(D) None of the Above  
+
+Q. ________ is a register for Short-term, intermediate storage of arithmetic and logic data in a Computer’s CPU. 
+(A) Accumulator 
+(B) Bus 
+(C) Buffer 
+(D) None of the Above  
+
+Q. An interrupt can be temporarily ignored by the counter is called _______ 
+(A) Maskable Interrupt 
+(B) Non-maskable Interrupt 
+(C) vectored Interrupt 
+(D) None of the Above  
+
+Q. A basic instruction that can be interpreted by computer generally has ________ 
+(A) An operand and an address 
+(B) decoder and an accumulator 
+(C) Sequence register and decoder 
+(D) None of the Above  
+
+Q. The load instruction is mostly used to designate a transfer frommemory to a processor register known as_________ 
+(A) Accumulator 
+(B) Instruction Register 
+(C) Program counter 
+(D) Memory address Register  
+
+Q. A group of bits that tell the computer to perform a specific operation is known as_______ 
+(A) Instruction code 
+(B) Micro-operation 
+(C) Accumulator 
+(D) Register  
+
+Q. The process where in the processor constantly checks the status flags is called as _________ 
+(A) Polling 
+(B) Inspection 
+(C) Reviewing 
+(D) None of the Above  
+
+Q. Content of the program counter is added to the address part of the instruction in order to obtain the effective address is called_______ 
+(A) relative address mode. 
+(B) index addressing mode. 
+(C) register mode. 
+(D) implied mode. 
+
+Q. An example of peripheral equipment is _______ 
+(A) Printer 
+(B) CPU 
+(C) Spread Sheet 
+(D) None of the Above  
+
+Q. Faulty inputs lead to faulty results. It is known as _______ 
+(A) Diligence 
+(B) Versatility 
+(C) GIGO 
+(D) None of the Above
+
+Q. First Generation computers used ______ for Circuitry and ________ for memory 
+(A) Transistor and Magnetic Core 
+(B) IC and Magnetic Memory 
+(C) Vacuum tubes and Magnetic drum 
+(D) IC and Magnetic Core
+
+Q. Second Generation computers were based on _______ 
+(A) IC 
+(B) Vacuum tube 
+(C) transistor 
+(D) None of the Above
+
+Q. Which of the following was a small experimental machine based on Neumann’s stored program concept? 
+(A) Analytical engine 
+(B) Pascaline 
+(C) Manchester Mark I 
+(D) None of the Above 
+
+Q. IC is made up of _________ 
+(A) microprocessor 
+(B) vacuum tube 
+(C) transistor 
+(D) None of the Above  
+
+Q. A _______ terminal can display images as well as text. 
+(A) text 
+(B) dumb 
+(C) graphical 
+(D) None of the Above  
+
+Q. Graphical terminals are divided into two types. They are _____ 
+(A) text and dumb 
+(B) dumb and intelligent 
+(C) vector mode and raster mode 
+(D) None of the Above  
+
+Q. The most famous Recurrent Neural Network is _______ 
+(A) Perceptrons 
+(B) Radial Basis Networks 
+(C) Hopfield net 
+(D) None of the Above  
+
+Q. The first calculator that can perform all four arithmetic operations(Addition, Subtraction, Multiplication, Division) was known as______ 
+(A) Pascaline 
+(B) Slide Rule 
+(C) Step Reckoner 
+(D) None of the Above  
+
+Q. The first computer spreadsheet program was_________ 
+(A) Lotus 1-2-3 
+(B) MS Excel 
+(C) Visicalc 
+(D) None of the Above 
+
+Q. Which language is directly understood by the computer without translation program? 
+(A) BASIC 
+(B) Assembly language 
+(C) Machine language 
+(D) C language 
+
+Q. Electronic Delay Storage Automatic Computer(EDSAC) was invented by _________ 
+(A) Herman Hollerith 
+(B) JW Mauchy 
+(C) John Von Neumann 
+(D) None of the Above 
+
+Q. The decoded instruction is stored in ______ 
+(A) Register 
+(B) Memory Address Register(MAR) 
+(C) Instruction Register(IR) 
+(D) None of the Above 
+
+Q. The communication line between CPU memory and Peripherals is called a _________ 
+(A) Registers 
+(B) Mother Board 
+(C) Bus 
+(D) None of the Above 
+
+Q. Which bus connects all the internal components of a computer such as CPU and memory to the main board(motherboard)? 
+(A) Expansion Bus 
+(B) External Bus 
+(C) Internal Bus 
+(D) None of the Above  
+
+Q. The Command to access the memory or the I/O device is carried by ______ 
+(A) Address Bus 
+(B) Data Bus 
+(C) Control Bus 
+(D) None of the Above  
+
+Q. Programming that actually controls the path of signals or data within computer is called________ 
+(A) Assembly language Programming 
+(B) Machine language Programming 
+(C) Micro Programming 
+(D) None of the Above 
+
+Q. The register which holds the address of the location to or from which data are to be transferred is known as_______ 
+(A) Instruction Register 
+(B) Control register 
+(C) Memory Address Register 
+(D) None of the Above  
+
+Q. Which of the following Unit can be used to measure the speed of a computer? 
+(A) BAUD 
+(B) SYPS 
+(C) MIPS 
+(D) None of the Above  
+
+Q. The circuit used to store one bit of data is known as_____ 
+(A) Encoder 
+(B) OR 
+(C) Flip Flop 
+(D) None of the Above  
+
+Q. An interface that provides I/O transfer of data directly to and form the memory unit and peripheral is termed as________ 
+(A) DDA 
+(B) Serial interface 
+(C) Direct Memory Access (DMA) 
+(D) None of the Above  
+
+Q. Which register keeps tracks of the instructions in the program stored in memory? 
+(A) Address Register 
+(B) Index Register 
+(C) Program Counter 
+(D) None of the Above 
+
+Q. When necessary, the results are transferred from the CPU to main memory by _______ 
+(A) I/O devices. 
+(B) CPU. 
+(C) Shift registers. 
+(D) None of the Above.
+
+Q. The addressing mode which makes use of in-direction pointers is ______ 
+(A) Offset addressing mode 
+(B) Relative addressing mode 
+(C) Indirect addressing mode 
+(D) None of the Above 
+
+Q. Which addressing mode is most suitable to change the normal sequence of execution of instructions? 
+(A) Immediate 
+(B) Indirect 
+(C) Relative 
+(D) None of the Above 
+
+Q. MICR stands for ____________ 
+(A) Magnetic Ink Colour Recognition 
+(B) Magnetic Ink Code Recognition 
+(C) Magnetic Ink Computer Recognition 
+(D) Magnetic Ink Character Recognition 
+
+Q. Which of the following groups consist of only Input devices? 
+(A) Mouse, Keyboard, Monitor 
+(B) Mouse, Keyboard, Printer 
+(C) Mouse, Keyboard, Plotter 
+(D) Mouse, Keyboard, Scanner 
+
+Q. OCR is used for the preparation of _________ 
+(A) electricity bills 
+(B) telephone bills 
+(C) insurance premium 
+(D) All of the Above 
+
+Q. Which of these is a pointing and drop device? 
+(A) Scanner 
+(B) Printer 
+(C) Keyboard 
+(D) Mouse 
+
+Q. A hard copy would prepared on a _______ 
+(A) Dot matrix Printer 
+(B) Plotter 
+(C) Type Writer Terminal 
+(D) All of the above 
+
+Q. Which is the best position for operating the mouse? 
+(A) Tail away from the user 
+(B) Tail facing the right 
+(C) Tail facing the left 
+(D) Tail towards the user 
+
+Q. Which of the following is not a hardware? 
+(A) Processor 
+(B) Printer 
+(C) Mouse 
+(D) Java  
+
+Q. The transfer of data from a CPU to peripheral devices of computer is achieved through ________ 
+(A) Modem 
+(B) Interface 
+(C) Buffer 
+(D) I/O Ports 
+
+Q. A thin plate or board that contains electronic components is called ___________ 
+(A) Hard Disk 
+(B) RAM 
+(C) ROM 
+(D) Circuit Board  
+
+Q. LED stands for _________ 
+(A) Low Emission Display 
+(B) Liquid Emitting Display 
+(C) Less Emitting Diode 
+(D) Light Emitting Diode 
+
+Q. Which of the following device is used to enter the text and numerical data in a computer? 
+(A) Plotter 
+(B) Scanner 
+(C) Printer 
+(D) Keyboard  
+
+Q. Printer resolution is usually measured in ________ 
+(A) Characters Per Minute (CPM) 
+(B) Pixels Per Inch (PPI) 
+(C) Pages Per Minute (PPM) 
+(D) Dots Per Inch (DPI) 
+
+Q. _______ is an input device that converts analog information into digital form. 
+(A) Plotter 
+(B) Track Ball 
+(C) Light Pen 
+(D) Digitizer 
+
+Q. Which input device is used to read information on a credit card? 
+(A) Graphic Tablet 
+(B) Numeric Keyboard 
+(C) Bar Code reader 
+(D) Magnetic Stripe reader  
+
+Q. LCD stands for _________ 
+(A) Light Crystal Display 
+(B) Low Crystal Display 
+(C) Less Crystal Display 
+(D) Liquid Crystal Display  
+
+Q. Impact printers can be divided into ______ types. 
+(A) Four 
+(B) Six 
+(C) Three 
+(D) Two 
+
+Q. ________ printers are the printers that print one character at a time. 
+(A) Laser 
+(B) Drum 
+(C) Chain 
+(D) Dot Matrix 
+
+Q. Which of the following is an example for Character printer? 
+(A) Laser 
+(B) Drum 
+(C) Chain 
+(D) Daisy Wheel  
+
+Q. Non-Impact Printers use ________ technologies. 
+(A) electrostatic and chemical 
+(B) thermal 
+(C) inkjet 
+(D) All of the Above 
+
+Q. Plotter can be divided into _________ types. 
+(A) Three 
+(B) Six 
+(C) Four 
+(D) Two  
+
+Q. In DLP Projector, DLP stands for________ 
+(A) Direct Light Processing 
+(B) Direct Low Processing 
+(C) Digital Low Processing 
+(D) Digital Light Processing  
+
+Q. ________ is an input device that accepts input when the user places a fingertip on the computer screen. 
+(A) Joy Stick 
+(B) Light Pen 
+(C) Trackball 
+(D) Touch Screen 
+
+Q. Optical Character Recognition (OCR) is also known as _________ 
+(A) Intelligent Code Recognition 
+(B) Intermediate Code Recognition 
+(C) Intermediate Character Recognition 
+(D) Intelligent Character Recognition  
+
+Q. __________ an external bus standard used for transferring data to and from digital devices. 
+(A) Serial Port 
+(B) Firewire 
+(C) Parallel Port 
+(D) USB  
+
+Q. ________ printer is also called pin printer. 
+(A) Laser 
+(B) Drum 
+(C) Daisy Wheel 
+(D) Dot Matrix  
+
+Q. The capacity to perform multiple tasks simultaneously is termed as ______ 
+(A) Diligence 
+(B) Versatility 
+(C) Reliability 
+(D) All of the Above
+
+Q. Which language was used to program Second Generation computers? 
+(A) Binary Coded language 
+(B) Assembly language 
+(C) Machine language 
+(D) None of the Above
+
+Q. Instructions and data can be stored in the memory of Computer for automatically directing the flow of operations. It is called _____ concept. 
+(A) Objective Programming 
+(B) Stored program 
+(C) Both (A) and (B) 
+(D) None of the Above
+
+Q. “Stored Program” concept was developed by ______ 
+(A) Maurice Wilkes 
+(B) Von Neumann 
+(C) M.H.(A) Newman 
+(D) None of the Above
+
+Q. Electronic Discrete Variable Automatic Computer(EDVAC) was designed on __________ concept. 
+(A) Objective Programming 
+(B) Stored program 
+(C) Both (A) and (B) 
+(D) None of the Above  
+
+Q. Father of modern computer______ 
+(A) Charles Babbage 
+(B) Alan Turing 
+(C) Ted Hoff 
+(D) None of the Above  
+
+Q. Which of the following is the smallest and fastest computer imitating brain working? 
+(A) Super Computer 
+(B) Quantum Computer 
+(C) Mainframe Computer 
+(D) PDA  
+
+Q. The user generally applies _________ to access mainframe or super computer? 
+(A) node 
+(B) terminal 
+(C) desktop 
+(D) None of the Above  
+
+Q. Which neural network allows feedback signal? 
+(A) Feed forward Neural Network 
+(B) Recurrent Neural Network 
+(C) Both(A) & (B) 
+(D) None of the Above  
+
+Q. Which of the following is an example for fourth generation language(4GL)? 
+(A) COBOL 
+(B) PowerBuilder 
+(C) FORTRAN 
+(D) None of the Above  
+
+Q. VDU stands for________ 
+(A) Video Display Unit 
+(B) Visual Display Unit 
+(C) Video Divide Unit 
+(D) None of the Above 
+
+Q. Which registers can interact with secondary memory? 
+(A) Register 
+(B) Memory Address Register(MAR) 
+(C) Instruction Register(IR) 
+(D) None of the Above  
+
+Q. The main circuit-board of the system unit is _______ 
+(A) RAM 
+(B) Mother Board 
+(C) Hard disk 
+(D) None of the Above 
+
+Q. A communication system that transfers data between the components inside a computer or between computers is called _______ 
+(A) Port 
+(B) Bus 
+(C) Registers 
+(D) None of the Above  
+
+Q. A bus that transfer data from one component to another or between computers is called _________ 
+(A) Address Bus 
+(B) Data Bus 
+(C) Control Bus 
+(D) None of the Above  
+
+Q. _________ is a group of commands for a CPU in machine language. 
+(A) Information Set 
+(B) Instruction Set 
+(C) Buffer 
+(D) None of the Above 
+
+Q. The control unit controls other units by generating control and _______ 
+(A) Command Signals 
+(B) Timing signals 
+(C) Transfer signals 
+(D) None of the Above  
+
+Q. The communication between the components in a microcomputer takes place via the address and ______ 
+(A) I/O bus 
+(B) Data bus 
+(C) Address bus 
+(D) None of the Above  
+
+Q. The operation executed on data stored in registers is called_______ 
+(A) Macro-operation 
+(B) Micro-operation 
+(C) Bit-operation 
+(D) None of the Above  
+
+Q. In which addressing mode the operand is given explicitly in the instruction? 
+(A) Absolute 
+(B) Immediate 
+(C) Indirect 
+(D) Direct  
+
+Q. The average time required to reach a storage location in memory and obtain its contents is called_____. 
+(A) Latency time. 
+(B) Access time. 
+(C) Turnaround time. 
+(D) Response time. 
+
+Q. The method of accessing the I/O devices by repeatedly checking the status flags is_________ 
+(A) Memory-mapped I/O 
+(B) Program-controlled I/O 
+(C) I/O mapped 
+(D) None of the Above  
+
+Q. The branch logic that provides decision making capabilities in the control unit is known as_______ 
+(A) conditional transfer 
+(B) unconditional transfer 
+(C) Both (A) and (B) 
+(D) None of the above 
+
+Q. Interrupts which are initiated by an I/O drive are ___________ 
+(A) internal 
+(B) external 
+(C) Both (A) and (B) 
+(D) All of the above 
+
+Q. The OCR recognises the _______ of the characters with the help of light source. 
+(A) Size 
+(B) Shape 
+(C) Colour 
+(D) None of the Above 
+
+Q. A register capable of shifting its binary information either to the right or the left is called a_________ 
+(A) parallel register. 
+(B) serial register. 
+(C) shift register. 
+(D) storage register. 
+
+Q. The pattern of printed lines on most products are called ________ 
+(A) OCR 
+(B) prices 
+(C) bar codes 
+(D) None of the Above 
+
+Q. Which Unit is used to measure the speed of a printer? 
+(A) DPI 
+(B) CPM 
+(C) PPM 
+(D) None of the Above 
+
+Q. USB refers to a ______ 
+(A) storage device 
+(B) processor 
+(C) port type 
+(D) None of the Above  
+
+Q. A joystick is primarily used to/for ________ 
+(A) print text 
+(B) draw picture 
+(C) computer gaming 
+(D) None of the Above  
+
+Q. External devices such as printers, keyboards and modems are known as _________ 
+(A) Special Buys 
+(B) Add on Devices 
+(C) Peripherals 
+(D) All of the above 
+
+Q. In laser printers, printing is achieved by deflecting laser beamon to __________ surface of a drum. 
+(A) Magnetic 
+(B) Electric 
+(C) Photosensitive 
+(D) None of the Above 
+
+Q. Trackball is an example of a/an _____ 
+(A) Output device 
+(B) Printing device 
+(C) Pointing device 
+(D) None of the Above 
+
+Q. Any data and instruction entered in the memory of a computer is__________ 
+(A) Storage 
+(B) Output 
+(C) Input 
+(D) Information  
+
+Q. A marker on the computer screen used to show the current position is called _________ 
+(A) coloured marker 
+(B) position checker 
+(C) cursor 
+(D) None of the Above 
+
+Q. __________ is a special type of optical scanner used to recognize the type of mark made by Pen or Pencil. 
+(A) Optical Character Reader 
+(B) Bar code Reader 
+(C) Optical Mark Reader 
+(D) None of the Above  
+
+Q. Which of the following works as mouse? 
+(A) Keyboard 
+(B) Scanner 
+(C) Track ball 
+(D) None of the Above  
+
+Q. Which of the following is used at Point of Sales to input product information? 
+(A) Graphic Tablet 
+(B) MICR 
+(C) Bar Code reader 
+(D) Magnetic Stripe reader  
+
+Q. _________ is a device used for reading bar coded data (contains light and dark lines). 
+(A) Graphic Tablet 
+(B) Numeric pad 
+(C) Bar Code reader 
+(D) Magnetic Stripe reader 
+
+Q. Which input device is usually a standard feature of laptops? 
+(A) Graphic Tablet 
+(B) Numeric Keyboard 
+(C) touch pad 
+(D) Magnetic Stripe reader 
+
+Q. The refresh rate of monitor is measured in _______ 
+(A) byte 
+(B) seconds 
+(C) Hertz 
+(D) None of the Above  
+
+Q. __________ is an interface for connecting eight or more data wires. 
+(A) Serial Port 
+(B) Fire wire 
+(C) Parallel Port 
+(D) None of the Above  
+
+Q. Joystick allows movements in _____ directions. 
+(A) Up and Down 
+(B) Left an Right 
+(C) Both (A) and (B) 
+(D) None of the Above  
+
+Q. A basic touch screen has three main components. It includes touch sensor, controller and ________ 
+(A) transmitter 
+(B) receiver 
+(C) software driver 
+(D) None of the Above 
+
+Q. MICR reads the characters by examining their shapes in _________ form. 
+(A) binary 
+(B) ASCII 
+(C) matrix 
+(D) None of the Above  
+
+Q. What does a light pen contain? 
+(A) lead 
+(B) ink 
+(C) light sensing elements 
+(D) None of the Above  
+
+Q. _________ is a protocol designed for recording and playing back music on digital synthesizers. 
+(A) Musical Interface 
+(B) Graphical User Interface (GUI) 
+(C) Musical Digital Instrument Interface (MIDI) 
+(D) None of the Above 
+
+Q. Which is an interactive device that facilitates touch sensation and fine-motion control in Robotics and Virtual reality? 
+(A) Light Pen 
+(B) Joystick 
+(C) Data Glove 
+(D) None of the Above 
+
+Q. Direct Thermal printer does not use _________ 
+(A) heat 
+(B) coated paper 
+(C) ribbon 
+(D) None of the Above  
+
+Q. The term ________ refers to data storage systems that make it possible for a computer or electronic device to store and retrieve dat(A) 
+(A) input technology 
+(B) output technology 
+(C) storage technology 
+(D) None of the Above  
+
+Q. First Computer mouse was built by_______ 
+(A) Douglas Engelbart 
+(B) William English 
+(C) Robert Zawacki 
+(D) Von Neumann 
+
+Q. Which input device resembles an upside-down mouse? 
+(A) Trackball 
+(B) Pointing stick 
+(C) Track pad 
+(D) Touch pad  
+
+Q. Bar-code readers use light to read ______ 
+(A) UPCs 
+(B) UPSs 
+(C) POSs 
+(D) optical marks  
+
+Q. The display size of a monitor is measured _________ 
+(A) diagonally. 
+(B) horizontally. 
+(C) vertically. 
+(D) None of the Above  
+
+Q. A displaying screen in which text is presented in one colour and background is of any other colour is called ________ 
+(A) monochrome screen 
+(B) high resolution screen 
+(C) low resolution screen 
+(D) medium resolution screen  
+
+Q. __________ printers print the characters by striking them on the ribbon which is then pressed on the paper. 
+(A) Impact 
+(B) Non Impact 
+(C) Both (A) and (B) 
+(D) None of the Above 
+
+Q. Which involves photo scanning of the text character by character, analysis of the scanned in image , and then translation of the character image into character code? 
+(A) OCR 
+(B) OMR 
+(C) Bar code Reader 
+(D) None of the Above
+
+Q. __________ are devices that convert electrical energy into light. 
+(A) Emissive Displays 
+(B) Non-Emissive Displays 
+(C) Both (A) and (B) 
+(D) None of the Above 
+
+Q. Which printers produce output by mechanical contact between the print head and paper? 
+(A) Impact 
+(B) Non-impact 
+(C) Both (A) and (B) 
+(D) None of the Above  
+
+Q. ______ is a computer printer for printing vector graphics. 
+(A) Plotter 
+(B) Projector 
+(C) Both (A) and (B) 
+(D) None of the Above 
+
+Q. __________ transmits one bit of data through a single wire. 
+(A) Serial Port 
+(B) Fire wire 
+(C) Parallel Port 
+(D) None of the Above   
+
+Q. Which is a hardware component or system of components that allows a human being to interact with a computer? 
+(A) Interface device (IDF) 
+(B) Graphical User Interface (GUI) 
+(C) Musical Digital Instrument Interface (MIDI) 
+(D) None of the Above  
+
+Q. ________ is a printer language that uses English phrases and programmatic constructions to describe the appearance of a printed page to the printer. 
+(A) Postscript 
+(B) PCL 
+(C) Both (A) and (B) 
+(D) None of the Above 
+
+Q. The toner or ink in a Laser printer is________ 
+(A) dry 
+(B) wet 
+(C) Either (A) or (B) 
+(D) None of the Above  
+
+Q. Which memory stores large amount of data and the data can not be processed directly by the CPU? 
+(A) Secondary or Auxiliary Memory 
+(B) Primary or Main Memory 
+(C) Both (A) and (B) 
+(D) None of the Above 
+
+Q. A nibble is equal to _______ 
+(A) 4 bits 
+(B) 8 bits 
+(C) 16 bits 
+(D) 32 bits  
+
+Q. _________is computer storage that only maintains its data while the device is powere(D) 
+(A) Volatile memory 
+(B) Non Volatile memory 
+(C) Both (A) and (B) 
+(D) None of the Above  
+
+Q. _________ is a type of non-volatile memory that erases data in units called blocks. 
+(A) Flash memory 
+(B) Virtual memory 
+(C) Buffer 
+(D) None of the Above  
+
+Q. ________ is the process of dividing the disk into tracks and sectors. 
+(A) Formatting 
+(B) Tracking 
+(C) Allotting 
+(D) None of the Above 
+
+Q. A removable magnetic disk that holds information is __________ 
+(A) Floppy Disk 
+(B) Hard Drive 
+(C) Monitor 
+(D) None of the Above  
+
+Q. Which memory does not use capacitor in its memory cell? 
+(A) SRAM 
+(B) DRAM 
+(C) ROM 
+(D) None of the Above  
+
+Q. ____________ is a type of non-volatile memory composed of a thin layer of material that can be easily magnetized in only one direction. 
+(A) Bubble memory 
+(B) RAM 
+(C) SRAM 
+(D) None of the Above  
+
+Q. Technique to implement virtual memory where memory is divided into units of fixed size memory is _________ 
+(A) Paging 
+(B) De-fragments 
+(C) Segmentation 
+(D) None of the above  
+
+Q. Storage device where time to retrieve stored information is independent of address where it is stored is called _______ 
+(A) Random Access Memory 
+(B) Secondary Memory 
+(C) System 
+(D) None of the above  
+
+Q. Which of the following memories has the shortest access time? 
+(A) Cache memory 
+(B) Magnetic Bubble Memory 
+(C) Magnetic Core Memory 
+(D) None of the above  
+
+Q. A scanner that is moved by hand over the material being captured is known as ________ 
+(A) Sheetfed scanner 
+(B) Flatbed scanner 
+(C) Drum scanner 
+(D) Handheld scanner 
+
+Q. Where would you find the letters “QWERTY”? 
+(A) Joy Stick 
+(B) Light Pen 
+(C) Numeric Pad 
+(D) Keyboard  
+
+Q. Which device typically attachable to computer keyboard that allows a blind people to read? 
+(A) Light Pen 
+(B) Joystick 
+(C) Touch screen 
+(D) Braille display 
+
+Q. PCL stands for _________ 
+(A) Print Code Language 
+(B) Printer Code Language 
+(C) Printer Character Language 
+(D) Printer Command Language  
+
+Q. _________ is a device which recognises physical or behavioural traits of the individual. 
+(A) Smart Card Reader 
+(B) Optical Character Reader(OCR) 
+(C) Optical Mark Reader(OCR) 
+(D) Biometric Sensor  
+
+Q. Printer resolution is a numerical measure of print quality that is measured in _______ 
+(A) Pages Per Minute (PPM) 
+(B) Lines Per Minute (LPM) 
+(C) Characters Per Second (CPS) 
+(D) Dots Per Inch (DPI) 
+
+Q. Thermal transfer printer can be divided into ______ types. 
+(A) Three 
+(B) Four 
+(C) Six 
+(D) Two  
+
+Q. Impact printer(s) is/are _______ 
+(A) Dot Matrix printer 
+(B) Line printer 
+(C) Daisy Wheel printer 
+(D) All of the Above  
+
+Q. Which of the following is/are hard disk performance parameter? 
+(A) Seek time 
+(B) Latency period 
+(C) Access time 
+(D) All of the above  
+
+Q. The term ‘giga byte’ equals to ________ 
+(A) 1024 byte 
+(B) 1024 KB 
+(C) 1024 GB 
+(D) 1024 MB  
+
+Q. Which of the following is a type of RAM used specifically for video adapters or 3D accelerators? 
+(A) DRAM 
+(B) SRAM 
+(C) SGRAM 
+(D) VRAM  
+
+Q. Virtual memory is _________ 
+(A) an extremely large main memory 
+(B) an extremely large secondary memory 
+(C) a type of used in super computers 
+(D) an illusion of extremely large main memory 
+
+Q. Cache and main memory will not be able to hold their contents when the power is off. They are ________ 
+(A) Static 
+(B) Dynamic 
+(C) Non Volatile 
+(D) Volatile  
+
+Q. The hardware in which data may be stored for a computer system is called ________ 
+(A) Registers 
+(B) Bus 
+(C) Control Unit 
+(D) Memory  
+
+Q. The magnetic storage chips used to provide non-volatile direct access storage of data and that have no moving parts are known as________ 
+(A) Magnetic core memory 
+(B) Magnetic tape memory 
+(C) Magnetic disk memory 
+(D) Magnetic bubble memory  
+
+Q. ___________ is a very high speed memory placed in between RAM and CPU. 
+(A) Magnetic disk 
+(B) Magnetic drum 
+(C) Virtual memory 
+(D) Cache memory 
+
+Q. EDODRAM stands for _________ 
+(A) Extended Digital Output Dynamic RAM 
+(B) Extended Dynamic Output Digital RAM 
+(C) Extended Data Output Digital RAM 
+(D) Extended Data Output Dynamic RAM 
+
+Q. A byte is a collection of _______ 
+(A) 4 bits 
+(B) 12 bits 
+(C) 6 bits 
+(D) 8 bits  
+
+Q. Comparing with secondary storage, primary storage is ______ 
+(A) Slow and expensive 
+(B) Slow and inexpensive 
+(C) Fast and inexpensive 
+(D) Fast and expensive 
+
+Q. The ______ can be programmed one time either the manufacturer or the computer user.Once programmed it cannot be modifie(D) 
+(A) PROM 
+(B) EPROM 
+(C) RAM 
+(D) ROM  
+
+Q. Technique of using disk space to make programs believe that the system contains more Random Access Memory(RAM) than is actually available is called ______ 
+(A) Random Access Memory 
+(B) Primary Memory 
+(C) Secondary Memory 
+(D) Virtual Memory  
+
+Q. EAROM stands for ______ 
+(A) Electrically Altered Read Only Memory 
+(B) Electrically Accepted Read Only Memory 
+(C) Electronically Alterable Read Only Memory 
+(D) Electrically Alterable Read Only Memory  
+
+Q. ______ is RAM that combines the fast read and write access of Dynamic RAM 
+(A) VRAM 
+(B) WRAM 
+(C) MRAM 
+(D) FRAM  
+
+Q. _________is a form of non-volatile storage that operates by changing the resistance of a specially formulated solid dielectric material. 
+(A) VRAM 
+(B) WRAM 
+(C) MRAM 
+(D) RRAM  
+
+Q. Which of the following is the smallest measure of storage? 
+(A) KB 
+(B) MB 
+(C) TB 
+(D) Byte  
+
+Q. _________ is a data area shared by hardware devices or program processes that operate at different speeds or with different sets of priorities. 
+(A) Flash memory 
+(B) Virtual memory 
+(C) Buffer 
+(D) None of the Above  
+
+Q. _________ is the transfer of computer data from a temporary storage area to the computer’s permanent memory. 
+(A) Flash 
+(B) Virtual 
+(C) Buffer Flush 
+(D) None of the Above 
+
+Q. The primary device that a computer uses to store information is _______ 
+(A) Floppy Disk 
+(B) Monitor 
+(C) Hard Drive 
+(D) None of the Above  
+
+Q. Which of the following is clock-synchronized RAM that is used for video memory? 
+(A) DRAM 
+(B) SRAM 
+(C) SGRAM 
+(D) None of the Above  
+
+Q. Information stored in RAM need to be ________ 
+(A) Check 
+(B) modify 
+(C) refresh periodically 
+(D) None of the Above  
+
+Q. Which of the following is an example of optical disk? 
+(A) Magnetic disk 
+(B) Memory disk 
+(C) Digital Versatile Disk 
+(D) None of the Above 
+
+Q. Which of the following memory is capable of operating at electronics speed? 
+(A) Magnetic disk 
+(B) Magnetic drum 
+(C) Semiconductor memory 
+(D) None of the Above  
+
+Q. Which of the following is the user programmed semiconductor memory? 
+(A) SRAM 
+(B) DRAM 
+(C) EPROM 
+(D) None of the Above  
+
+Q. Which of the following terms is the most closely related to main memory? 
+(A) Non Volatile 
+(B) Permanent 
+(C) Temporary 
+(D) None of the Above  
+
+Q. Technique of placing software/programs in a ROM semiconductor chip is called ______ 
+(A) PROM 
+(B) EPROM 
+(C) Firmware 
+(D) None of the above  
+
+Q. The instructions for starting the computer are house on ________ 
+(A) Hard Disk 
+(B) CD-ROM 
+(C) Read Only Memory chip 
+(D) All of the above  
+
+Q. _______ is a method of storing data bits using magnetic charges instead of the electrical charges used by DRAM. 
+(A) VRAM 
+(B) WRAM 
+(C) MRAM 
+(D) None of the above  
+
+Q. Kilobyte equals to how many bytes? 
+(A) 1000 
+(B) 1064 
+(C) 1024 
+(D) None of the above  
+
+Q. Software refers to ____ 
+(A) firmware 
+(B) physical components that a computer is made of 
+(C) programs 
+(D) None of the above  
+
+Q. Application software 
+(A) is designed to help programmers 
+(B) is used to control the operating System 
+(C) performs specific task for computer users 
+(D) is used for making design only  
+
+Q. It is the set of programs that enables your computers hardware device and application software to work together. 
+(A) Operating system 
+(B) Helper software 
+(C) System software 
+(D) Application software  
+
+Q. A thermal transfer printer is a ________ printer that uses heat to register an impression on paper. 
+(A) Impact 
+(B) Both (A) and (C) 
+(C) Non-impact 
+(D) None of the Above
+
+Q. Which of the following type of printer uses a thermal transfer ribbon that contains wax-based ink? 
+(A) Direct Thermal 
+(B) Both (A) and (C) 
+(C) Thermal Wax transfer 
+(D) None of the Above   
+
+Q. __________ is a device that performs a variety of functions that would otherwise be carried out by separate peripheral devices. 
+(A) Single Function Peripheral 
+(B) Dual Function Peripheral 
+(C) Thermal Wax transfer 
+(D) None of the Above  
+
+Q. _________ is the time from the start of one storage device access to the time when the next access can be starte(D) 
+(A) Mode 
+(B) capacity 
+(C) Access time 
+(D) None of the Above 
+
+Q. The memory unit that communicates directly with the CPU is called ________ 
+(A) Secondary or Auxiliary Memory 
+(B) Both (A) and (C) 
+(C) Primary or Main Memory 
+(D) None of the Above    
+
+Q. A disk’s content that is recorded at the time of manufacture and that cannot be changed or erased by the user is ________ 
+(A) Write only 
+(B) Both (A) and (C) 
+(C) Read Only 
+(D) None of the Above  
+
+Q. Which of the following memories uses a MOS capacitor as its memory cell? 
+(A) SRAM 
+(B) ROM 
+(C) DRAM 
+(D) FIFO  
+
+Q. A byte can represent any number between 0 and _______ 
+(A) 312 
+(B) 1024 
+(C) 255 
+(D) 1025 
+
+Q. Which of the following memory chip is faster? 
+(A) DRAM 
+(B) Both (A) and (C) 
+(C) SRAM 
+(D) None of the Above  
+
+Q. The ______ may also be called the screen or monitor. 
+(A) Scanner 
+(B) Display 
+(C) Hard Disk 
+(D) None of the Above  
+
+Q. What type of devices are computer speakers or headphones? 
+(A) Input 
+(B) Output 
+(C) Input/Output 
+(D) None of the Above 
+
+Q. A parallel port is most often used by ________ 
+(A) Scanner 
+(B) Printer 
+(C) Keyboard 
+(D) Mouse 
+
+Q. The higher the resolution of a monitor, the _________ 
+(A) larger the pixels. 
+(B) closer together the pixels. 
+(C) further apart the pixels. 
+(D) less clear the screen is.
+
+Q. The rate at which scanning is repeated in a CRT is called ________ 
+(A) Resolution 
+(B) Refresh rate 
+(C) Bandwidth 
+(D) None of the Above 
+
+Q. A ___________ is used to create a digital representation of a printed document or photograph. 
+(A) Video Digitizer 
+(B) Scanner 
+(C) Monitor 
+(D) None of the Above  
+
+Q. The wheel located between the two standard buttons on a mouse is used to ________ 
+(A) click in Web pages. 
+(B) scroll. 
+(C) click and select items. 
+(D) jump to different Web pages. 
+
+Q. The computer or system peripherals that receives data from processing unit are called ___________ 
+(A) Input Devices 
+(B) Output Devices 
+(C) Both (A) and (B) 
+(D) None of the Above  
+
+Q. Which of the following is non-emissive display? 
+(A) LED 
+(B) LCD 
+(C) Both (A) and (B) 
+(D) None of the Above 
+
+Q. The work done by a computer operator is displayed in which part of computer? 
+(A) CPU 
+(B) VDU 
+(C) ALU 
+(D) None of the Above  
+
+Q. In OCR processing, When a character is recognized, it is converted into_______ code. 
+(A) binary 
+(B) ASCII 
+(C) Both (A) and (B) 
+(D) None of the Above 
+
+Q. Laser printers and Ink-jet printers are an example of _______ 
+(A) Impact 
+(B) Non Impact 
+(C) Both (A) and (B) 
+(D) None of the Above  
+
+Q. Which of the following is used as principal flight control in the cockpit of many air crafts? 
+(A) Graphic Tablet 
+(B) Joy Stick 
+(C) Bar Code reader 
+(D) Magnetic Stripe reader 
+
+Q. TFT stands for ________ 
+(A) Thick Film Transistor 
+(B) Thin Film Transistor 
+(C) Thin Film Transmitter 
+(D) Thick Film Transmitter 
+
+Q. Which input device is used for inserting pin numbers for credit cards? 
+(A) Graphic Tablet 
+(B) Numeric pad 
+(C) Bar Code reader 
+(D) Magnetic Stripe reader  
+
+Q. Which of the following input device is used in Banks to read magnetised characters on a Cheque? 
+(A) OCR 
+(B) MICR 
+(C) Bar Code reader 
+(D) Magnetic Stripe reader  
+
+Q. _________ printers print the characters without using ribbon and it can print a complete page at a time. 
+(A) Impact 
+(B) Non Impact 
+(C) Both (A) and (B) 
+(D) None of the Above  
+
+Q. Which of the following is an example for line printer? 
+(A) Laser 
+(B) Drum 
+(C) Daisy Wheel 
+(D) Dot Matrix  
+
+Q. ________ is a high-speed real-time interface for serial bus and it has data transfer up to 400 Mbps. 
+(A) Serial Port 
+(B) Fire wire 
+(C) Parallel Port 
+(D) None of the Above  
+
+Q. Which refers to the diagonal distance between two coloured pixels? 
+(A) Refresh rate 
+(B) Dot Pitch 
+(C) Both (A) and (B) 
+(D) None of the Above 
+
+Q. __________ is a handheld electro-optical pointing device. It is also called mouse pen. 
+(A) Joy Stick 
+(B) Light Pen 
+(C) Trackball 
+(D) Touch Screen  
+
+Q. Which of the following is also known as reflective scanner? 
+(A) Handheld scanner 
+(B) Flatbed scanner 
+(C) Drum scanner 
+(D) None of the Above  
+
+Q. Special I/O devices such as, Joy stick, Data Glove are involved in ______________ applications. 
+(A) Photonics 
+(B) Haptics 
+(C) Agnostic 
+(D) None of the Above 
+
+Q. Many Dot Matrix printers are ________ 
+(A) uni-directional 
+(B) bi-directional 
+(C) multi-directional 
+(D) None of the Above
+
+Q. Which is an escape code language used to send commands to the printer for printing documents? 
+(A) Postscript 
+(B) PCL 
+(C) Both (A) and (B) 
+(D) None of the Above 
