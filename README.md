@@ -1,2 +1,2 @@
 # quiz_game
-Made c++ code for simple quiz game
+Made c code for simple quiz game
